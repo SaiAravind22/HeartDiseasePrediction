@@ -1,0 +1,36 @@
+https://www.youtube.com/watch?v=UvcQlPZ8ecA
+
+CMD PROMPT
+	pip install sklearn
+	pip install flask
+	pip install xgboost
+	pip install lightgbm
+	pip install pandas
+	pip install imutils
+	pip install opencv-python
+	pip install matplotlib
+	pip install --upgrade pandas-datareader
+	pip install seaborn
+
+http://127.0.0.1:8080/index -->CHROME
+
+https://www.youtube.com/watch?v=4bUOrMj88Pc  -->PATH
+
+python -m pip install --upgrade pip
+
+pip install sklearn --user
+
+pip install pycryptodome
+pip install pyaes
+pip install pbkdf2
+
+
+pip install sklearn==0.0
+pip install sklearn-extensions==0.0.2
+pip install sklearn-genetic==0.2
+
+
+pip install scikit-fuzzy==0.4.2
+pip install scikit-image==0.16.2
+pip install scikit-learn==0.22.1
+pip install scipy==1.7.3
